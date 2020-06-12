@@ -4,4 +4,4 @@ Submitted as part of the BEng in Physics Engineering at the Polytechnic Universi
 
 --------------------------
 
-This repository contains sis.m and sir.m, two files for the deterministic and stochastic analysis of SIS and SIR models, respectively.
+This repository contains sis.m and sir.m, two files for the analysis of SIS and SIR models, respectively.
