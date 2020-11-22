@@ -4,4 +4,4 @@ Submitted as part of the BEng in Physics Engineering at the Polytechnic Universi
 
 --------------------------
 
-This repository contains two files for the analysis of SIS and SIR models, sis.m and sir.m, respectively.
+This repository contains two files for the analysis of SIS and SIR models: sis.m and sir.m.
