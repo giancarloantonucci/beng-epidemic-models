@@ -1,4 +1,4 @@
-# Deterministic Analysis and Stochastic Simulation of SIS and SIR Models
+# Deterministic analysis and stochastic simulation of SIS and SIR models
 
 Submitted as part of the BEng in Physics Engineering at the Polytechnic University of Turin.
 
