@@ -1,4 +1,4 @@
-# Deterministic analysis and stochastic simulation of SIS and SIR models
+# Epidemic Models
 
 Submitted as part of the BEng in Physics Engineering at the Polytechnic University of Turin.
 
